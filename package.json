@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-uuid-converter",
+  "version": "1.0.0",
+  "description": "This script converts Minecraft playerdata when switching from online-mode to offline-mode 02/2021",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxgry",
+  "license": "GPL_v3",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "md5": "^2.3.0",
+    "nbt": "^0.8.1",
+    "path": "^0.12.7"
+  }
+}
